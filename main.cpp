@@ -5,7 +5,7 @@ using namespace std;
 
 int hello()
 {
-    return printf("HELLO\n");
+    return printf("HELLO MOTHER\n");
 }
 
 
